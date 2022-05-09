@@ -45,7 +45,8 @@ PHISHING FRAMEWORK BUILT OVER DJANGO AND COULD BE DEPLOYED OVER WEB TO SHOW THE 
 
 ### Disclaimer :
 Usage of this tool for attacking targets without prior mutual consent is illegal. It's the end user's responsibility to obey all applicable local, state and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program.
-
-
+### SPECIAL THANKS:
+graysuit/Litephish for their wondorful templates
+### MADE IN INDIA 🇮🇳 WITH ♥
 ### ❤️Supporters❤️
 [![Stargazers repo roster for @siddhant385/django-phishing](https://reporoster.com/stars/siddhant385/django-phishing)](https://github.com/siddhant385/pyhackthon/django-phishing)
