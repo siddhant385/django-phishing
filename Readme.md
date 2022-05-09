@@ -48,4 +48,4 @@ Usage of this tool for attacking targets without prior mutual consent is illegal
 
 
 ### ❤️Supporters❤️
-[![Stargazers repo roster for @siddhant385/pyhackthon](https://reporoster.com/stars/siddhant385/pyhackthon)](https://github.com/siddhant385/pyhackthon/stargazers)
+[![Stargazers repo roster for @siddhant385/django-phishing](https://reporoster.com/stars/siddhant385/django-phishing)](https://github.com/siddhant385/pyhackthon/django-phishing)
