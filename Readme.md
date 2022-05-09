@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="source/djangotext.gif"></img>
+  <img src="sources/djangotext.gif"></img>
 </p>
 <p align="center">
-  <img src="source/phish.gif"></img>
+  <img src="sources/phish.gif"></img>
  </p>
 
  <h1 align='center'> ONLY FOR WINDOWS!</h1>
