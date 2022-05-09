@@ -18,6 +18,13 @@ PHISHING FRAMEWORK BUILT OVER DJANGO AND COULD BE DEPLOYED OVER WEB TO SHOW THE 
 - live demo of site - https://siddhantsharma385.pythonanywhere.com
 - netflix - https://siddhantsharma385.pythonanywhere.com/netflix
 - facebook - https://siddhantsharma385.pythonanywhere.com/facebook
+# Sites templates are of
+- facebook
+- dropbox
+- instagram
+- netflix
+- github
+- many more check it yourself
 -----
 # UPCOMING FEATURES
 - MORE ENCRYPTED 
