@@ -15,6 +15,9 @@
 # ABOUT:
 
 PHISHING FRAMEWORK BUILT OVER DJANGO AND COULD BE DEPLOYED OVER WEB TO SHOW THE RISKS OF PHISHING OVER THE WEB WITH PASSWORD FETCH OVER TELEGRAM
+live demo of site - siddhantsharma385.pythonanywhere.com
+netflix - siddhantsharma385.pythonanywhere.com/netflix
+facebook - siddhantsharma385.pythonanywhere.com/facebook
 -----
 # UPCOMING FEATURES
 - MORE ENCRYPTED 
