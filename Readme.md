@@ -4,8 +4,6 @@
 <p align="center">
   <img src="sources/phish.gif"></img>
  </p>
-
- <h1 align='center'> ONLY FOR WINDOWS!</h1>
  <p align="center">
   <img src="https://www.itperfection.com/wp-content/uploads/2020/05/ITPerfection-cyber-attacks-network-attacks-Phishing-attacks-smisghing-attacks-vishing-attacks-network-security.jpg"></img>
  </p>
