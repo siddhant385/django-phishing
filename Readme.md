@@ -15,7 +15,7 @@
 NOTE :- This Tool is No Longer Maintained as this was just for my learning purposes well I think I will create a new tool with flask in upcoming days
 Hence Please visit this repo I will paste the new repo link below
 
-flask-phishing:- [click here]() or ""
+flask-phishing:- [click here](https://github.com/siddhant385/flask-phishing) or "https://github.com/siddhant385/flask-phishing"
 
 PHISHING FRAMEWORK BUILT OVER DJANGO AND COULD BE DEPLOYED OVER WEB TO SHOW THE RISKS OF PHISHING OVER THE WEB WITH PASSWORD FETCH OVER TELEGRAM
 - live demo of site - https://siddhantsharma385.pythonanywhere.com
